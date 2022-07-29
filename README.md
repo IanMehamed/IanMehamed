@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IanMehamed
+- 👀 I’m interested in Python and Software development in general.
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Django projects
+- 📫 ianmehamed@gmail.com
